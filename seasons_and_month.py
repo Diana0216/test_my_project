@@ -21,3 +21,5 @@ elif user_imput in autumn:
 else:
     print "Try again"
 
+def seasons():
+    user_imput = (input("Input the months name"))
